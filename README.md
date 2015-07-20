@@ -67,4 +67,4 @@ A number of items were created in anticipation of and at the Hack Day. Most tool
 *   **Sonifications** - Niki Yoshiuchi from the New York event created a [sonification](http://www.aplusbi.com/?p=194), or audio representation of the data. Joachim Gossmann is also started working on a variety of sonifications.
 
 ## Terms of Service
-By using this data, you agree to the [Terms of Service](/About/developer-resources/terms-of-service.shtml).
+By using this data, you agree to the [Terms of Service](https://www.usa.gov/developer-terms-of-service).
